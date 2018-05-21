@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DieX.iml" filepath="$PROJECT_DIR$/DieX.iml" />
+      <module fileurl="file://C:\Users\1806357\AndroidStudioProjects\DieXGaem\DieX.iml" filepath="C:\Users\1806357\AndroidStudioProjects\DieXGaem\DieX.iml" />
       <module fileurl="file://C:\Users\1806357\AndroidStudioProjects\DieX\DieX2.iml" filepath="C:\Users\1806357\AndroidStudioProjects\DieX\DieX2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DieXGaem.iml" filepath="$PROJECT_DIR$/.idea/DieXGaem.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\1806357\AndroidStudioProjects\DieXGaem\app\app.iml" filepath="C:\Users\1806357\AndroidStudioProjects\DieXGaem\app\app.iml" />
     </modules>
   </component>
 </project>
